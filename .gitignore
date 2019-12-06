@@ -103,4 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-glove.42B.300d.txt
+glove.*
